@@ -1,0 +1,12 @@
+{
+  "tranioCookie": "tr-inplace-ab=a; tr-sort-ab=b; tr-jumper-ab=a; csrftoken=v9m4KhJulYS08J6lIuv8LvGORSK54c5XXFa4lMBVJLyh6WDFZ2beHPPsDv2VzkLE; tr_utc_offset=-1; sbjs_migrations=1418474375998%3D1; sbjs_current_add=fd%3D2021-11-02%2020%3A19%3A26%7C%7C%7Cep%3Dhttps%3A%2F%2Ftranio.com%2Fcommercial%2Fgermany%2Fadt%2F1788217%2F%7C%7C%7Crf%3Dhttps%3A%2F%2Fwww.google.com%2F; sbjs_first_add=fd%3D2021-11-02%2016%3A59%3A39%7C%7C%7Cep%3Dhttps%3A%2F%2Ftranio.com%2Fcommercial%2Fgermany%2Fberlin%2Frentable-property%2Fapartment-building%2F%7C%7C%7Crf%3Dhttps%3A%2F%2Fwww.google.com%2F; sbjs_current=typ%3Dorganic%7C%7C%7Csrc%3Dgoogle%7C%7C%7Cmdm%3Dorganic%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29; sbjs_first=typ%3Dorganic%7C%7C%7Csrc%3Dgoogle%7C%7C%7Cmdm%3Dorganic%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29; sbjs_udata=vst%3D5%7C%7C%7Cuip%3D%28none%29%7C%7C%7Cuag%3DMozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A93.0%29%20Gecko%2F20100101%20Firefox%2F93.0; _ga=GA1.2.1765267336.1635868781; _gid=GA1.2.645871577.1635868781; _ym_uid=1635868781646488939; _ym_d=1635868781; _ym_isad=2; trampid=3d5702fa0c2371fe863eb9559dd010e2; _fbp=fb.1.1635868787111.1547092403; sessionid=p90mr215i87m3vx7qvhli5uz62k8tvnq; sbjs_session=pgs%3D1%7C%7C%7Ccpg%3Dhttps%3A%2F%2Ftranio.com%2Fcommercial%2Fgermany%2Fadt%2F1740878%2F; _gat=1",
+  "targetUrl": "https://tranio.com/commercial/germany/berlin/rentable-property/apartment-building/",
+  "doStep1": true,
+  "doStep0": true,
+  "doStep2": true,
+  "outputStep0": "output1/links.json",
+  "inputStep1": "output1/links.json",
+  "outputStep1": "output1/raw.json",
+  "inputStep2": "output1/raw.json",
+  "outputStep2": "output1/data.json"
+}
